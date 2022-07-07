@@ -1,5 +1,5 @@
-# real-jobs-challenges
-A list of real jobs programming challenges solved by myself
+# technical-tests
+A list of technical-tests solved by myself
 
 ## Inspiration list
 
